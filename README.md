@@ -4,8 +4,8 @@
 
 Install `glfw`:
 
-**Ubuntu Linux**:
-`sudo apt install lib-glfw3-dev`
+**Ubuntu Linux**:  
+`sudo apt install libglfw3-dev`
 
 
 Install glad:
