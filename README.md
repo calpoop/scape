@@ -10,7 +10,7 @@ Install `glfw`:
 
 Install glad:
 
-**Ubuntu Linux**:
+**Ubuntu Linux**:  
 
 Download from https://glad.dav1d.de/:
 
@@ -30,7 +30,7 @@ Download the generated zip file and under the "include" folder, there should be 
 
 Make sure you have cmake installed:
 
-**Ubuntu Linux**:
+**Ubuntu Linux**:  
 `sudo apt-get install cmake`
 
 
@@ -42,6 +42,6 @@ From the root directory of the project, run:
 
 Then go to your build directory, make the executable and run it:
 
-`cd build/`
-`make`
-`./scape`
+`cd build/`  
+`make`  
+`./scape`  
